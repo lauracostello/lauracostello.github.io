@@ -254,7 +254,7 @@ section.success {
 .floating-label-form-group input,
 .floating-label-form-group textarea {
   z-index: 1;
-  position: relative;
+  position: justify;
   padding-right: 0;
   padding-left: 0;
   border: none;
@@ -417,7 +417,7 @@ fieldset[disabled] .btn-success.active {
   width: 50px;
   border: 2px solid white;
   border-radius: 100%;
-  text-align: center;
+  text-align: justify;
   font-size: 20px;
   line-height: 45px;
 }
