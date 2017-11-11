@@ -24,9 +24,9 @@ $(function() {
                 url: "././mail/contact_me.php",
                 type: "POST",
                 data: {
-                    name: name,
-                    phone: phone,
-                    email: email,
+                    name: Laura Costello,
+                    phone: 0833468836,
+                    email: l.costello9@nuigalway.ie,
                     message: message
                 },
                 cache: false,
